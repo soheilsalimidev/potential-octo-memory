@@ -26,7 +26,7 @@ htmlAttrs:
 
 _سهیل سلیمی - استاد زجاجی_
 
-_see live at soheilsalimidev.github.io/nosql-presentation_
+_[see live at soheilsalimidev.github.io/potential-octo-memory](https://soheilsalimidev.github.io/potential-octo-memory/)_
 ---
 layout: 'default'
 ---
