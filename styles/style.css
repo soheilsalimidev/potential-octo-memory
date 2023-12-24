@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "MuseoModerno";
+  src:
+    local("./MuseoModerno-VariableFont_wght.ttf"),
+}
+
+
+.slidev-layout h1, .slidev-layout h2, .slidev-layout h3, .slidev-layout h4{
+  font-family: 'IRANYekanWeb' !important;
+}
+
+#slide-content {
+  background-color: #263238
+}
