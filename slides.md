@@ -7,7 +7,7 @@ info: "Use containerization to run open-source large language models quickly and
 drawings:
   persist: false
 transition: slide-left
-title: "Use containerization to run open-source large language models quickly and locally"
+title: " استفاده از کانتینر ها برای اجرای سریع و محلی مدل های زبانی بزرگ"
 mdc: true
 defaults:
   layout: 'new-def'
@@ -22,7 +22,7 @@ htmlAttrs:
   lang: 'fa'  
 ---
 
-# استفاده از کانتینر ها برای استفاده سریع و محلی از مدل های زبانی بزرگ
+# استفاده از کانتینر ها برای اجرای سریع و محلی مدل های زبانی بزرگ
 
 _سهیل سلیمی - استاد زجاجی_
 
