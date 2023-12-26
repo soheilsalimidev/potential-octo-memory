@@ -33,7 +33,7 @@ jobs:
         run: pnpm install
 
       - name: Build
-        run: pnpm run build --base /nosql-presentation/
+        run: pnpm run build --base /potential-octo-memory/
 
       - uses: actions/configure-pages@v3
 
