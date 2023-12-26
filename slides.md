@@ -38,7 +38,7 @@ layout: 'default'
 #  ادبیات موضوع
 
 - **مدل زبان** آماری یک توزیع احتمال روی دنباله‌ی کلمات است.
-- مدل **زبانی بزرگ** یا به اختصار ال‌ال‌ام (به انگلیسی: LLM)، یک مدل زبانی متشکل از یک شبکه عصبی با پارامترهای زیادی است که بر روی مقادیر زیادی متن بدون برچسب با استفاده از یادگیری خود نظارتی یا یادگیری نیمه‌نظارتی آموزش داده شده‌است.[۱]
+- مدل **زبانی بزرگ** یا به اختصار ال‌ال‌ام (به انگلیسی: LLM)، یک مدل زبانی متشکل از یک شبکه عصبی با پارامترهای زیادی است که بر روی مقادیر زیادی متن بدون برچسب با استفاده از یادگیری خود نظارتی یا یادگیری نیمه‌نظارتی آموزش داده شده‌است.[\[1\]](\14)
 - **کانتینر**  یک واحد نرم‌افزاری است که شامل یک برنامه و تمام وابستگی‌های آن است. کانتینر‌ها می‌توانند بر روی هر سیستم عاملی که داکر را اجرا می‌کند، به صورت مستقل و یکنواخت اجرا شوند.
 ---
 layout: 'default'
@@ -85,8 +85,8 @@ layout: 'default'
 
 ---
 ---
-# پرژه های پیشن
-## ollma
+# پروژه های پیشن
+## Ollma
 <div class="text-center mt-2 italic bold">
 Get up and running with large language models locally
 </div>
@@ -105,7 +105,7 @@ layout: 'default'
 # کاربرد پژوهش
 افراد و شرکت ها به راحتی می توانند از این مدل استفاده کنند, بدون نیاز به اینکه وارد جزئیات پیاده سازی این مدل ها شوند.
 
-## درآمد از پرژه
+## درآمد از پروژه
 - ارائه خدمات تولید محتوا با استفاده از مدل‌های زبانی گسترده
 - ارائه خدمات بهینه‌سازی و تغییر مدل‌های زبانی گسترده
 - ذخیره و نگه داری مدل های گسترده کاربران
@@ -114,10 +114,10 @@ layout: 'default'
 ---
 ---
 # روش پیشنهادی
-- کانتینر کردن این LLM  که این کار را طبق Open Container Initiative[2] انجام می دهیم.
-- اتصال LLM به کانتینر
+- کانتینر کردن این LLM  که این کار را طبق Open Container Initiative [\[2\]](/14) انجام می دهیم.
+- اتصال LLM به یک اجراکننده کانتینر مانند youki
 - ساخت یک فایل تنظیمات برای تنظیم وابستگی های مورد نیاز مدل
-- تنظیم پروتوکل ها و تنظیمات مربوط به HTTP [3] و gRPC [4]
+- تنظیم پروتوکل ها و تنظیمات مربوط به HTTP [\[3\]](/14) و gRPC [\[4\]](/14)
 
 ---
 ---
@@ -136,10 +136,10 @@ layout: 'default'
 ---
 <div style="direction: ltr;" class="mt-2">
 <ul class="list-inside ">
-  <li> Goled, Shraddha (May 7, 2021). "Self-Supervised Learning Vs Semi-Supervised Learning: How They Differ". Analytics India Magazine</li>
-  <li> O. Initiative, Open container initiatives. 2020. </li>
-  <li>D. Gourley and B. Totty, HTTP: the definitive guide. “ O’Reilly Media, Inc.,” 2002.</li>
-    <li>X. Wang, H. Zhao, and J. Zhu, “GRPC: A communication cooperation mechanism in distributed systems,” ACM SIGOPS Operating Systems Review, vol. 27, no. 3, pp. 75–86, 1993.</li>
+  <li>\[1\] Goled, Shraddha (May 7, 2021). "Self-Supervised Learning Vs Semi-Supervised Learning: How They Differ". Analytics India Magazine</li>
+  <li>\[2\] O. Initiative, Open container initiatives. 2020. </li>
+  <li>\[3\] D. Gourley and B. Totty, HTTP: the definitive guide. “ O’Reilly Media, Inc.,” 2002.</li>
+    <li>\[4\] X. Wang, H. Zhao, and J. Zhu, “GRPC: A communication cooperation mechanism in distributed systems,” ACM SIGOPS Operating Systems Review, vol. 27, no. 3, pp. 75–86, 1993.</li>
 </ul>
 </div>
 
