@@ -71,7 +71,7 @@ layout: 'default'
 
 ---
 ---
-## هدف های این پرژه
+## هدف های این پروژه
 - نصب و استفاده راحت از مدل های زبانی بزرگ
 - کاهش هزینه‌های محاسباتی و انتقال داده‌ها با استفاده از منابع محلی یا شبکه‌های خصوصی
 - افزایش امنیت و حفظ حریم خصوصی با جلوگیری از ارسال داده‌ها به سرورهای ابری یا سرویس‌های آنلاین
@@ -136,10 +136,10 @@ layout: 'default'
 ---
 <div style="direction: ltr;" class="mt-2">
 <ul class="list-inside ">
-  <li>\[1\] Goled, Shraddha (May 7, 2021). "Self-Supervised Learning Vs Semi-Supervised Learning: How They Differ". Analytics India Magazine</li>
-  <li>\[2\] O. Initiative, Open container initiatives. 2020. </li>
-  <li>\[3\] D. Gourley and B. Totty, HTTP: the definitive guide. “ O’Reilly Media, Inc.,” 2002.</li>
-    <li>\[4\] X. Wang, H. Zhao, and J. Zhu, “GRPC: A communication cooperation mechanism in distributed systems,” ACM SIGOPS Operating Systems Review, vol. 27, no. 3, pp. 75–86, 1993.</li>
+  <li>[1] Goled, Shraddha (May 7, 2021). "Self-Supervised Learning Vs Semi-Supervised Learning: How They Differ". Analytics India Magazine</li>
+  <li>[2] O. Initiative, Open container initiatives. 2020. </li>
+  <li>[3] D. Gourley and B. Totty, HTTP: the definitive guide. “ O’Reilly Media, Inc.,” 2002.</li>
+    <li>[4] X. Wang, H. Zhao, and J. Zhu, “GRPC: A communication cooperation mechanism in distributed systems,” ACM SIGOPS Operating Systems Review, vol. 27, no. 3, pp. 75–86, 1993.</li>
 </ul>
 </div>
 
